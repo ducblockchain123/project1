@@ -1,0 +1,19 @@
+{
+  "chain": "Lisk Mainet",
+  "privateKeys": [
+    "PRIVATE_KEY1"
+  ],
+  "dailyTransactions": {
+    "min": 10,
+    "max": 15
+  },
+  "transactionAmount": {
+    "min": 0.00001,
+    "max": 0.00002
+  },
+  "transactionDelay": {
+    "min": 10000,
+    "max": 19000
+  },
+  "cycleDelay": 21600000
+}
